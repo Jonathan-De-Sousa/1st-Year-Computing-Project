@@ -1,0 +1,12 @@
+SAMPLE CASE 1
+Enter x values as a column vector: [-4;-3.289;-2;-1.088;0;1.088;2;3.289;4]
+Enter f(x) values as a column vector: [0;116.206;0;-45.398;0;45.398;0;-116.206;0]
+Enter x value: -2.5
+Interpolated f(-2.5) value: 67.4772
+
+
+SAMPLE CASE 2
+Enter x values as a column vector: [-4;-3.289;-2;-1.088;0;1.088;2;3.289;4]
+Enter f(x) values as a column vector: [0;116.206;0;-45.398;0;45.398;0;-116.206;0]
+Enter x value: 3.75
+Interpolated f(3.75) value: -52.0806

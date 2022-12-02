@@ -1,0 +1,111 @@
+SAMPLE CASE 1
+INPUT
+Rotor angular velocity (rad/s): 27
+Collective blade pitch (degrees): 18
+Forward airspeed (knots): 0
+Rate of descent (ft/min): 0
+Altitude (m): 0
+
+Number of blades: 4
+Rotor diameter (m): 16.36
+First aerofoil section (m): 1.55
+Root chord length (m): 0.53
+Tip chord length (m): 0.53
+Blade twist angle (degrees): -18.0
+
+Full name of data file (e.g. N0012.dat): N0012.dat
+
+OUTPUT
+Total thrust force.. = 3.757e+04 N 
+Power to drive rotor = 1.351e+06 W 
+Drag force.......... = 9.817e-14 N 
+Side force.......... = 4.433e-13 N 
+Rolling moment...... = 7.382e-12 Nm 
+Pitching moment..... = -1.462e-12 Nm 
+Rotor Torque........ = 5.005e+04 Nm
+
+-----------------------------------------------------------------------------------------------
+
+SAMPLE CASE 2
+INPUT
+Rotor angular velocity (rad/s): 27
+Collective blade pitch (degrees): 28
+Forward airspeed (knots): 0
+Rate of descent (ft/min): 0
+Altitude (m): 0
+
+Number of blades: 4
+Rotor diameter (m): 16.36
+First aerofoil section (m): 1.55
+Root chord length (m): 0.53
+Tip chord length (m): 0.53 
+Blade twist angle (degrees): -18.0
+
+Full name of data file (e.g. N0012.dat): N0012.dat
+
+OUTPUT
+Total thrust force.. = 1.234e+05 N 
+Power to drive rotor = 6.161e+06 W 
+Drag force.......... = 2.833e-13 N 
+Side force.......... = 1.520e-12 N 
+Rolling moment...... = 2.519e-11 Nm 
+Pitching moment..... = 2.397e-12 Nm 
+Rotor Torque........ = 2.282e+05 Nm 
+
+------------------------------------------------------------------------------------------------
+
+SAMPLE CASE 3
+INPUT
+Rotor angular velocity (rad/s): 27
+Collective blade pitch (degrees): 18
+Forward airspeed (knots): 100
+Rate of descent (ft/min): 0
+Altitude (m): 0
+
+Number of blades: 4
+Rotor diameter (m): 16.36
+First aerofoil section (m): 1.55
+Root chord length (m): 0.53
+Tip chord length (m): 0.53
+Blade twist angle (degrees): -18
+
+Full name of data file (e.g. N0012.dat): N0012.dat
+
+OUTPUT
+Total thrust force.. = 4.053e+04 N 
+Power to drive rotor = 1.407e+06 W 
+Drag force.......... = 3.927e+03 N 
+Side force.......... = 4.355e-04 N 
+Rolling moment...... = 9.503e-05 Nm 
+Pitching moment..... = -6.831e+04 Nm 
+Rotor Torque........ = 5.210e+04 Nm 
+
+-----------------------------------------------------------------------------------------------
+
+SAMPLE CASE 4
+INPUT
+Rotor angular velocity (rad/s): 27
+Collective blade pitch (degrees): 18
+Forward airspeed (knots): 40
+Rate of descent (ft/min): -1000
+Altitude (m): 0
+
+Number of blades: 4
+Rotor diameter (m): 16.36
+First aerofoil section (m): 1.55
+Root chord length (m): 0.53
+Tip chord length (m): 0.53
+Blade twist angle (degrees): -18
+
+Full name of data file (e.g. N0012.dat): N0012.dat
+
+OUTPUT
+Total thrust force.. = 2.782e+04 N 
+Power to drive rotor = 1.226e+06 W 
+Drag force.......... = 1.391e+03 N 
+Side force.......... = 4.094e-13 N 
+Rolling moment...... = 3.329e-12 Nm 
+Pitching moment..... = -2.080e+04 Nm 
+Rotor Torque........ = 4.541e+04 Nm 
+
+
